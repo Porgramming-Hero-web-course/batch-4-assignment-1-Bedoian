@@ -11,7 +11,7 @@
         return origin
     }
 
-    console.log(removeDuplicates([5,5,5,4,6,5,7,6]));
+    // console.log(removeDuplicates([5,5,5,4,6,5,7,6]));
 
 
 

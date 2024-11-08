@@ -15,7 +15,7 @@
         age:16,
         group:'B'
     }
-    console.log(getProperty(student,'name'));
+    // console.log(getProperty(student,'age'));
 
 
 

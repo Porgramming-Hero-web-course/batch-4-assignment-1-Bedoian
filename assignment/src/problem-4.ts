@@ -24,7 +24,7 @@
         }
     }
 
-    // console.log(calculateShapeArea({ shape:'rectanle',width:5,height:5}));
+    // console.log(calculateShapeArea({shape:'circle',radius:4}));
 
 
 
